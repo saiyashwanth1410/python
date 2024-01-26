@@ -1,0 +1,7 @@
+file = open (r"E:\saiyashwanth\sql.txt",'r')
+data =file.read()
+print(data)
+file.close()
+sai yashwanth
+suresh
+niranjan
